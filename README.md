@@ -52,8 +52,8 @@ You can click the Preview link to take a look at your changes.
 
 <h4 align="left">Project Management Stack:</h4>
 <p align="left">
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+ <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
